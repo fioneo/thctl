@@ -1,6 +1,6 @@
 # thctl
 
-thctl is a command-line client for controlling the thunder player. It reads a command from standard input and sends it to the player over a unix socket.
+thctl is a command-line client for controlling the [thunder music player](https://github.com/fioneo/thunder). It reads a command from standard input and sends it to the player over a unix socket.
 
 ## Build and install
 
